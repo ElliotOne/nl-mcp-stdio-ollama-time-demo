@@ -222,7 +222,7 @@ This repository intentionally highlights correct setup to avoid subtle bugs.
 
 ## License
 
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](https://github.com/ElliotOne/nl-mcp-stdio-ollama-time-demo/blob/master/LICENSE) file for details. &#x20;
 
 ## Contributing
 
